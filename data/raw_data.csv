@@ -1,0 +1,1001 @@
+order_id,customer_id,items,timestamp
+1,548,"BBQ Wings, Garlic Parmesan Wings, Onion Rings",2024-09-03 15:28
+2,266,"BBQ Wings, Spicy Wings, Honey Mustard Wings, Lemonade, Beer",2024-11-28 15:28
+3,129,"BBQ Wings, Ranch Dip, Garlic Bread",2025-07-14 15:28
+4,839,"Spicy Wings, Lemonade",2025-07-03 15:28
+5,811,"Garlic Parmesan Wings, BBQ Wings, Garlic Bread",2025-03-02 15:28
+6,724,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Celery Sticks",2025-03-31 15:28
+7,497,"Honey Mustard Wings, Fries",2025-05-04 15:28
+8,144,"Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2024-08-10 15:28
+9,248,"Garlic Parmesan Wings, Classic Wings, Ranch Dip",2024-08-30 15:28
+10,528,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Lemonade, Fries",2025-01-17 15:28
+11,374,"BBQ Wings, Honey Mustard Wings, Cheese Dip",2025-06-28 15:28
+12,961,"Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2025-06-21 15:28
+13,336,"Spicy Wings, BBQ Wings, Classic Wings, Garlic Bread, Celery Sticks",2024-09-13 15:28
+14,813,"Spicy Wings, Cheese Dip",2025-01-08 15:28
+15,503,"Spicy Wings, Fries, Garlic Bread",2024-10-06 15:28
+16,990,"BBQ Wings, Honey Mustard Wings, Classic Wings, Cheese Dip, Cola",2025-03-07 15:28
+17,674,"Honey Mustard Wings, Onion Rings",2024-12-22 15:28
+18,659,"Classic Wings, Spicy Wings, Celery Sticks, Ranch Dip",2025-07-11 15:28
+19,226,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Fries, Ranch Dip",2025-05-22 15:28
+20,625,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Lemonade",2025-07-31 15:28
+21,165,"Honey Mustard Wings, BBQ Wings, Celery Sticks, Cheese Dip",2025-06-09 15:28
+22,948,"BBQ Wings, Classic Wings, Spicy Wings, Blue Cheese Dip",2025-02-27 15:28
+23,224,"Honey Mustard Wings, BBQ Wings, Ranch Dip",2024-08-14 15:28
+24,828,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Beer",2024-11-01 15:28
+25,515,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Cola",2025-06-12 15:28
+26,637,"Spicy Wings, BBQ Wings, Celery Sticks, Ranch Dip",2024-12-29 15:28
+27,455,"BBQ Wings, Ranch Dip, Garlic Bread",2025-04-18 15:28
+28,362,"Classic Wings, Lemonade",2024-08-07 15:28
+29,197,"Honey Mustard Wings, BBQ Wings, Iced Tea",2025-04-11 15:28
+30,713,"Honey Mustard Wings, Classic Wings, Ranch Dip, Iced Tea",2024-10-06 15:28
+31,120,"BBQ Wings, Iced Tea",2024-09-07 15:28
+32,814,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Lemonade",2024-12-23 15:28
+33,683,"BBQ Wings, Ranch Dip, Lemonade",2025-05-09 15:28
+34,932,"Spicy Wings, Cheese Dip, Celery Sticks",2024-12-29 15:28
+35,607,"Classic Wings, Celery Sticks",2024-10-11 15:28
+36,438,"Garlic Parmesan Wings, Spicy Wings, Blue Cheese Dip",2025-04-28 15:28
+37,999,"Garlic Parmesan Wings, BBQ Wings, Classic Wings, Cola, Beer",2024-09-28 15:28
+38,943,"Spicy Wings, Garlic Parmesan Wings, Iced Tea",2025-06-25 15:28
+39,327,"BBQ Wings, Ranch Dip",2025-07-04 15:28
+40,904,"BBQ Wings, Onion Rings",2025-05-31 15:28
+41,571,"BBQ Wings, Garlic Parmesan Wings, Beer, Fries",2024-12-19 15:28
+42,159,"Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2024-11-26 15:28
+43,927,"Honey Mustard Wings, BBQ Wings, Spicy Wings, Lemonade",2025-07-14 15:28
+44,631,"Garlic Parmesan Wings, Blue Cheese Dip",2024-09-08 15:28
+45,704,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Blue Cheese Dip",2024-10-16 15:28
+46,314,"Honey Mustard Wings, BBQ Wings, Blue Cheese Dip, Lemonade",2025-06-09 15:28
+47,542,"Spicy Wings, Classic Wings, Honey Mustard Wings, Cola",2025-08-01 15:28
+48,955,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread",2025-03-20 15:28
+49,431,"Spicy Wings, Classic Wings, BBQ Wings, Beer",2025-07-17 15:28
+50,838,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Fries",2025-03-22 15:28
+51,401,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Celery Sticks, Lemonade",2025-03-15 15:28
+52,859,"Garlic Parmesan Wings, Lemonade",2025-01-11 15:28
+53,895,"Honey Mustard Wings, Fries, Ranch Dip",2025-04-15 15:28
+54,890,"Classic Wings, Garlic Parmesan Wings, Onion Rings",2025-01-18 15:28
+55,669,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Beer, Garlic Bread",2025-01-04 15:28
+56,106,"Classic Wings, BBQ Wings, Spicy Wings, Lemonade, Fries",2025-06-09 15:28
+57,366,"Garlic Parmesan Wings, Iced Tea",2024-09-17 15:28
+58,391,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Celery Sticks, Garlic Bread",2024-11-15 15:28
+59,216,"Honey Mustard Wings, Celery Sticks, Ranch Dip",2024-08-29 15:28
+60,788,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Iced Tea, Celery Sticks",2025-03-24 15:28
+61,169,"Spicy Wings, Beer, Blue Cheese Dip",2025-04-26 15:28
+62,819,"Spicy Wings, Classic Wings, Lemonade, Cheese Dip",2025-07-28 15:28
+63,371,"Garlic Parmesan Wings, BBQ Wings, Ranch Dip",2025-07-08 15:28
+64,107,"Honey Mustard Wings, Beer",2024-10-11 15:28
+65,802,"Honey Mustard Wings, Onion Rings, Blue Cheese Dip",2024-11-11 15:28
+66,194,"Honey Mustard Wings, Cheese Dip",2025-02-06 15:28
+67,921,"Garlic Parmesan Wings, Cheese Dip, Beer",2024-12-13 15:28
+68,694,"Spicy Wings, Classic Wings, Cola",2025-05-19 15:28
+69,475,"Honey Mustard Wings, Classic Wings, Spicy Wings, Lemonade",2024-09-13 15:28
+70,776,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Fries, Cola",2025-01-18 15:28
+71,831,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Garlic Bread, Fries",2025-07-17 15:28
+72,330,"Spicy Wings, BBQ Wings, Garlic Bread",2024-08-05 15:28
+73,583,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Iced Tea, Fries",2024-10-21 15:28
+74,593,"Garlic Parmesan Wings, BBQ Wings, Classic Wings, Blue Cheese Dip",2024-11-05 15:28
+75,437,"Classic Wings, Spicy Wings, Honey Mustard Wings, Ranch Dip",2025-06-30 15:28
+76,281,"BBQ Wings, Garlic Parmesan Wings, Iced Tea",2025-06-16 15:28
+77,424,"Spicy Wings, Classic Wings, BBQ Wings, Blue Cheese Dip, Lemonade",2025-06-12 15:28
+78,294,"Spicy Wings, BBQ Wings, Classic Wings, Lemonade",2025-03-14 15:28
+79,667,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Lemonade, Ranch Dip",2025-06-09 15:28
+80,740,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Blue Cheese Dip",2024-09-30 15:28
+81,240,"Honey Mustard Wings, Lemonade, Ranch Dip",2024-08-23 15:28
+82,573,"Spicy Wings, BBQ Wings, Classic Wings, Cola, Fries",2024-09-05 15:28
+83,163,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Garlic Bread",2024-09-09 15:28
+84,743,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Iced Tea",2025-03-04 15:28
+85,957,"Garlic Parmesan Wings, Onion Rings",2025-08-03 15:28
+86,257,"Garlic Parmesan Wings, BBQ Wings, Fries, Cheese Dip",2025-05-01 15:28
+87,652,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Garlic Bread",2025-01-26 15:28
+88,504,"BBQ Wings, Spicy Wings, Honey Mustard Wings, Cola, Cheese Dip",2025-04-08 15:28
+89,470,"BBQ Wings, Spicy Wings, Iced Tea, Blue Cheese Dip",2024-11-03 15:28
+90,977,"Classic Wings, Honey Mustard Wings, Garlic Bread",2025-05-13 15:28
+91,699,"Honey Mustard Wings, BBQ Wings, Fries, Garlic Bread",2024-09-14 15:28
+92,287,"Classic Wings, Garlic Parmesan Wings, Ranch Dip",2024-12-10 15:28
+93,849,"Honey Mustard Wings, Garlic Bread, Cheese Dip",2024-09-29 15:28
+94,928,"Spicy Wings, Cheese Dip, Lemonade",2025-01-10 15:28
+95,974,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Cheese Dip, Onion Rings",2025-06-24 15:28
+96,562,"Classic Wings, Garlic Bread",2025-04-06 15:28
+97,139,"Classic Wings, Ranch Dip",2025-01-03 15:28
+98,784,"Classic Wings, Cheese Dip",2025-03-24 15:28
+99,562,"Honey Mustard Wings, Celery Sticks",2024-11-26 15:28
+100,905,"Classic Wings, Spicy Wings, Garlic Bread, Cheese Dip",2025-06-02 15:28
+101,520,"Classic Wings, Onion Rings",2024-12-25 15:28
+102,539,"Classic Wings, Ranch Dip",2025-07-26 15:28
+103,612,"Honey Mustard Wings, Cheese Dip, Lemonade",2025-03-14 15:28
+104,996,"Garlic Parmesan Wings, BBQ Wings, Blue Cheese Dip, Celery Sticks",2025-04-13 15:28
+105,575,"Classic Wings, Honey Mustard Wings, Cheese Dip, Celery Sticks",2024-09-29 15:28
+106,268,"Garlic Parmesan Wings, BBQ Wings, Garlic Bread",2024-08-29 15:28
+107,751,"Garlic Parmesan Wings, BBQ Wings, Classic Wings, Iced Tea",2024-10-14 15:28
+108,385,"BBQ Wings, Classic Wings, Blue Cheese Dip",2025-03-29 15:28
+109,479,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Cheese Dip",2025-03-01 15:28
+110,878,"Spicy Wings, Celery Sticks",2025-02-28 15:28
+111,580,"BBQ Wings, Iced Tea",2025-04-14 15:28
+112,808,"BBQ Wings, Celery Sticks",2025-07-02 15:28
+113,481,"Classic Wings, Honey Mustard Wings, Lemonade, Celery Sticks",2024-10-20 15:28
+114,153,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Cheese Dip, Celery Sticks",2024-12-22 15:28
+115,103,"Classic Wings, Fries, Celery Sticks",2025-05-07 15:28
+116,987,"BBQ Wings, Cheese Dip, Fries",2024-12-18 15:28
+117,905,"BBQ Wings, Honey Mustard Wings, Cola, Garlic Bread",2024-11-09 15:28
+118,863,"Classic Wings, Cola, Celery Sticks",2025-05-07 15:28
+119,458,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Blue Cheese Dip",2024-09-29 15:28
+120,382,"Classic Wings, Iced Tea, Lemonade",2025-01-27 15:28
+121,895,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Onion Rings, Celery Sticks",2024-11-06 15:28
+122,306,"Spicy Wings, Honey Mustard Wings, Lemonade, Fries",2024-09-15 15:28
+123,319,"Garlic Parmesan Wings, Spicy Wings, Fries",2025-07-31 15:28
+124,670,"Garlic Parmesan Wings, Celery Sticks, Garlic Bread",2024-12-20 15:28
+125,514,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Lemonade",2025-03-28 15:28
+126,229,"Classic Wings, Spicy Wings, Honey Mustard Wings, Onion Rings",2024-12-23 15:28
+127,780,"BBQ Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip, Iced Tea",2025-05-20 15:28
+128,602,"Spicy Wings, Garlic Parmesan Wings, Fries",2024-11-16 15:28
+129,392,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Lemonade, Onion Rings",2024-12-09 15:28
+130,985,"Spicy Wings, Classic Wings, BBQ Wings, Lemonade, Iced Tea",2025-07-28 15:28
+131,331,"Classic Wings, BBQ Wings, Spicy Wings, Beer, Fries",2025-03-31 15:28
+132,670,"BBQ Wings, Classic Wings, Ranch Dip, Garlic Bread",2025-07-06 15:28
+133,514,"Spicy Wings, BBQ Wings, Blue Cheese Dip",2025-04-22 15:28
+134,965,"BBQ Wings, Ranch Dip",2025-04-06 15:28
+135,300,"Classic Wings, Garlic Parmesan Wings, Ranch Dip",2025-03-06 15:28
+136,809,"Honey Mustard Wings, Garlic Parmesan Wings, Celery Sticks, Cola",2024-10-22 15:28
+137,490,"Classic Wings, BBQ Wings, Honey Mustard Wings, Beer",2025-04-01 15:28
+138,869,"Classic Wings, Honey Mustard Wings, Cola, Blue Cheese Dip",2025-03-30 15:28
+139,181,"Honey Mustard Wings, Cola, Onion Rings",2025-06-12 15:28
+140,349,"Garlic Parmesan Wings, BBQ Wings, Cola",2024-11-22 15:28
+141,907,"Garlic Parmesan Wings, BBQ Wings, Beer, Lemonade",2024-10-18 15:28
+142,820,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Onion Rings",2024-12-27 15:28
+143,944,"BBQ Wings, Ranch Dip",2025-05-20 15:28
+144,416,"BBQ Wings, Garlic Bread, Ranch Dip",2025-07-04 15:28
+145,863,"Classic Wings, Beer, Garlic Bread",2025-04-30 15:28
+146,875,"BBQ Wings, Garlic Parmesan Wings, Ranch Dip",2025-04-23 15:28
+147,764,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Lemonade",2024-09-29 15:28
+148,259,"BBQ Wings, Garlic Parmesan Wings, Cola, Celery Sticks",2024-12-17 15:28
+149,137,"Classic Wings, Blue Cheese Dip",2025-01-27 15:28
+150,555,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Lemonade",2025-06-09 15:28
+151,558,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Cola, Lemonade",2024-08-15 15:28
+152,560,"Spicy Wings, Classic Wings, Fries",2024-09-14 15:28
+153,204,"BBQ Wings, Garlic Parmesan Wings, Beer, Cola",2025-04-29 15:28
+154,345,"Honey Mustard Wings, Garlic Bread",2025-01-06 15:28
+155,842,"Garlic Parmesan Wings, BBQ Wings, Iced Tea, Lemonade",2024-10-14 15:28
+156,860,"Honey Mustard Wings, Classic Wings, Fries",2025-07-15 15:28
+157,684,"Spicy Wings, Garlic Parmesan Wings, Ranch Dip, Iced Tea",2024-09-18 15:28
+158,795,"Classic Wings, Garlic Bread, Onion Rings",2024-08-20 15:28
+159,873,"Classic Wings, Iced Tea",2024-12-02 15:28
+160,300,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Lemonade",2024-12-25 15:28
+161,350,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Garlic Bread",2024-08-31 15:28
+162,513,"Honey Mustard Wings, Classic Wings, Garlic Bread",2024-10-11 15:28
+163,183,"Garlic Parmesan Wings, Spicy Wings, Onion Rings",2024-12-21 15:28
+164,410,"Classic Wings, BBQ Wings, Spicy Wings, Garlic Bread, Ranch Dip",2025-04-26 15:28
+165,709,"Spicy Wings, Iced Tea, Onion Rings",2025-01-11 15:28
+166,792,"Honey Mustard Wings, BBQ Wings, Classic Wings, Garlic Bread",2025-04-17 15:28
+167,793,"Honey Mustard Wings, BBQ Wings, Ranch Dip",2024-08-11 15:28
+168,865,"Honey Mustard Wings, Classic Wings, Spicy Wings, Cola, Celery Sticks",2025-03-18 15:28
+169,761,"BBQ Wings, Spicy Wings, Classic Wings, Ranch Dip",2025-07-13 15:28
+170,693,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Blue Cheese Dip",2024-10-23 15:28
+171,598,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Cheese Dip, Beer",2025-03-29 15:28
+172,951,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Blue Cheese Dip",2025-04-21 15:28
+173,973,"Classic Wings, Garlic Parmesan Wings, Garlic Bread, Lemonade",2025-01-20 15:28
+174,717,"Garlic Parmesan Wings, BBQ Wings, Classic Wings, Ranch Dip, Garlic Bread",2024-11-28 15:28
+175,785,"BBQ Wings, Spicy Wings, Cola",2024-10-19 15:28
+176,641,"BBQ Wings, Classic Wings, Cheese Dip, Beer",2024-08-29 15:28
+177,757,"BBQ Wings, Beer, Lemonade",2025-07-02 15:28
+178,961,"Garlic Parmesan Wings, Garlic Bread",2024-08-23 15:28
+179,440,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Onion Rings, Cheese Dip",2024-12-16 15:28
+180,367,"Garlic Parmesan Wings, BBQ Wings, Cheese Dip, Iced Tea",2024-09-23 15:28
+181,525,"Honey Mustard Wings, Classic Wings, Spicy Wings, Celery Sticks",2025-07-10 15:28
+182,858,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Garlic Bread",2024-09-20 15:28
+183,179,"Spicy Wings, Garlic Parmesan Wings, Beer, Iced Tea",2024-12-17 15:28
+184,203,"Honey Mustard Wings, BBQ Wings, Fries, Blue Cheese Dip",2024-11-29 15:28
+185,519,"Garlic Parmesan Wings, BBQ Wings, Celery Sticks, Iced Tea",2025-08-02 15:28
+186,297,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Lemonade, Garlic Bread",2025-04-26 15:28
+187,464,"BBQ Wings, Classic Wings, Spicy Wings, Cheese Dip, Cola",2025-01-15 15:28
+188,125,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Beer, Celery Sticks",2025-01-09 15:28
+189,255,"BBQ Wings, Garlic Parmesan Wings, Cola, Celery Sticks",2024-08-07 15:28
+190,119,"Spicy Wings, BBQ Wings, Classic Wings, Lemonade, Onion Rings",2025-01-21 15:28
+191,117,"Honey Mustard Wings, Ranch Dip",2024-11-22 15:28
+192,877,"Classic Wings, Garlic Parmesan Wings, Lemonade",2025-06-08 15:28
+193,259,"Classic Wings, Honey Mustard Wings, Spicy Wings, Ranch Dip",2025-03-05 15:28
+194,127,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip",2025-05-29 15:28
+195,257,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Onion Rings, Cheese Dip",2025-01-09 15:28
+196,842,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Ranch Dip, Iced Tea",2025-03-04 15:28
+197,615,"Spicy Wings, Honey Mustard Wings, BBQ Wings, Fries",2024-10-23 15:28
+198,839,"Honey Mustard Wings, Garlic Parmesan Wings, Cola, Iced Tea",2024-12-12 15:28
+199,587,"Honey Mustard Wings, Spicy Wings, Classic Wings, Celery Sticks, Fries",2025-06-27 15:28
+200,234,"Classic Wings, Honey Mustard Wings, Beer, Celery Sticks",2025-05-01 15:28
+201,857,"Spicy Wings, Cola, Beer",2025-01-29 15:28
+202,245,"Honey Mustard Wings, Beer",2024-08-07 15:28
+203,537,"Spicy Wings, Honey Mustard Wings, Classic Wings, Lemonade",2025-05-11 15:28
+204,136,"Spicy Wings, Fries",2024-09-15 15:28
+205,926,"Honey Mustard Wings, BBQ Wings, Fries, Cola",2024-10-27 15:28
+206,810,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Lemonade, Garlic Bread",2024-08-21 15:28
+207,712,"BBQ Wings, Cheese Dip, Garlic Bread",2024-10-31 15:28
+208,633,"Spicy Wings, BBQ Wings, Classic Wings, Cola, Ranch Dip",2025-03-11 15:28
+209,587,"Spicy Wings, Cola",2025-03-11 15:28
+210,943,"Classic Wings, Cola, Beer",2024-08-28 15:28
+211,307,"Garlic Parmesan Wings, Fries, Blue Cheese Dip",2024-11-30 15:28
+212,502,"Garlic Parmesan Wings, Beer",2024-10-25 15:28
+213,817,"Classic Wings, Honey Mustard Wings, Spicy Wings, Lemonade",2025-03-28 15:28
+214,385,"Garlic Parmesan Wings, Garlic Bread",2025-02-12 15:28
+215,839,"BBQ Wings, Beer",2025-06-01 15:28
+216,219,"Garlic Parmesan Wings, Onion Rings, Garlic Bread",2024-11-05 15:28
+217,807,"Spicy Wings, Blue Cheese Dip",2024-12-24 15:28
+218,919,"Classic Wings, Garlic Bread",2025-02-10 15:28
+219,597,"Classic Wings, Garlic Parmesan Wings, Onion Rings",2025-05-25 15:28
+220,285,"Garlic Parmesan Wings, Classic Wings, Iced Tea",2025-05-19 15:28
+221,791,"Classic Wings, Cheese Dip",2025-04-14 15:28
+222,186,"Garlic Parmesan Wings, BBQ Wings, Beer, Fries",2025-05-22 15:28
+223,819,"Spicy Wings, Blue Cheese Dip",2025-06-13 15:28
+224,937,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Blue Cheese Dip",2025-05-13 15:28
+225,221,"BBQ Wings, Honey Mustard Wings, Classic Wings, Onion Rings, Cheese Dip",2025-01-21 15:28
+226,430,"Classic Wings, BBQ Wings, Blue Cheese Dip",2024-10-24 15:28
+227,647,"BBQ Wings, Cheese Dip",2025-07-18 15:28
+228,410,"BBQ Wings, Honey Mustard Wings, Lemonade, Iced Tea",2025-02-28 15:28
+229,574,"BBQ Wings, Spicy Wings, Honey Mustard Wings, Cola, Onion Rings",2024-12-27 15:28
+230,564,"Classic Wings, Honey Mustard Wings, Cola",2024-11-21 15:28
+231,915,"Classic Wings, Ranch Dip, Garlic Bread",2024-12-28 15:28
+232,348,"Spicy Wings, Classic Wings, BBQ Wings, Beer, Ranch Dip",2024-12-07 15:28
+233,360,"Spicy Wings, Onion Rings",2024-11-29 15:28
+234,139,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Lemonade",2025-02-23 15:28
+235,308,"Honey Mustard Wings, Iced Tea",2024-12-24 15:28
+236,447,"Spicy Wings, Honey Mustard Wings, Iced Tea, Blue Cheese Dip",2025-04-28 15:28
+237,882,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Iced Tea",2024-08-16 15:28
+238,318,"BBQ Wings, Lemonade",2025-02-15 15:28
+239,367,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread, Celery Sticks",2025-04-03 15:28
+240,595,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Onion Rings",2024-11-14 15:28
+241,205,"Spicy Wings, Iced Tea, Celery Sticks",2025-06-03 15:28
+242,635,"Honey Mustard Wings, BBQ Wings, Garlic Parmesan Wings, Fries, Garlic Bread",2025-05-10 15:28
+243,334,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Celery Sticks, Cola",2025-05-01 15:28
+244,894,"Garlic Parmesan Wings, Honey Mustard Wings, Beer, Ranch Dip",2025-04-29 15:28
+245,144,"BBQ Wings, Ranch Dip, Cola",2025-05-13 15:28
+246,755,"Classic Wings, BBQ Wings, Honey Mustard Wings, Beer, Fries",2025-02-02 15:28
+247,591,"Classic Wings, Spicy Wings, Ranch Dip",2025-01-16 15:28
+248,441,"Spicy Wings, Lemonade",2025-01-20 15:28
+249,295,"Honey Mustard Wings, Classic Wings, Celery Sticks, Garlic Bread",2025-07-10 15:28
+250,722,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Cola, Onion Rings",2024-09-12 15:28
+251,608,"BBQ Wings, Spicy Wings, Classic Wings, Cheese Dip, Celery Sticks",2024-10-19 15:28
+252,311,"Garlic Parmesan Wings, Honey Mustard Wings, Spicy Wings, Cheese Dip, Blue Cheese Dip",2024-12-03 15:28
+253,662,"BBQ Wings, Garlic Parmesan Wings, Ranch Dip",2024-09-28 15:28
+254,489,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Iced Tea",2024-10-22 15:28
+255,915,"BBQ Wings, Onion Rings, Cheese Dip",2025-02-19 15:28
+256,893,"Spicy Wings, Ranch Dip, Blue Cheese Dip",2025-02-04 15:28
+257,982,"Honey Mustard Wings, Spicy Wings, Fries, Garlic Bread",2025-02-08 15:28
+258,841,"Spicy Wings, Garlic Parmesan Wings, BBQ Wings, Celery Sticks, Iced Tea",2025-08-02 15:28
+259,259,"Spicy Wings, Blue Cheese Dip, Garlic Bread",2025-02-10 15:28
+260,114,"Spicy Wings, Garlic Parmesan Wings, Celery Sticks",2025-07-06 15:28
+261,889,"Honey Mustard Wings, Iced Tea, Celery Sticks",2025-04-22 15:28
+262,164,"Spicy Wings, Blue Cheese Dip, Lemonade",2024-12-11 15:28
+263,927,"Classic Wings, Spicy Wings, BBQ Wings, Cheese Dip",2024-11-13 15:28
+264,489,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Onion Rings, Lemonade",2024-12-01 15:28
+265,354,"Classic Wings, Spicy Wings, Honey Mustard Wings, Onion Rings, Ranch Dip",2024-12-27 15:28
+266,811,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Blue Cheese Dip",2024-12-15 15:28
+267,870,"Honey Mustard Wings, Garlic Parmesan Wings, Celery Sticks, Iced Tea",2024-11-11 15:28
+268,512,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Garlic Bread",2024-09-30 15:28
+269,535,"Garlic Parmesan Wings, Cheese Dip, Garlic Bread",2024-11-10 15:28
+270,252,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Iced Tea, Onion Rings",2025-08-01 15:28
+271,317,"Spicy Wings, Iced Tea, Cola",2024-10-13 15:28
+272,602,"Classic Wings, Honey Mustard Wings, Iced Tea, Onion Rings",2024-11-11 15:28
+273,797,"Classic Wings, Cheese Dip, Ranch Dip",2024-11-24 15:28
+274,509,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip, Cheese Dip",2025-08-03 15:28
+275,676,"Garlic Parmesan Wings, Blue Cheese Dip, Cheese Dip",2025-04-02 15:28
+276,468,"Honey Mustard Wings, Garlic Parmesan Wings, Iced Tea, Blue Cheese Dip",2024-08-16 15:28
+277,384,"Classic Wings, BBQ Wings, Blue Cheese Dip, Ranch Dip",2025-01-15 15:28
+278,304,"Honey Mustard Wings, Iced Tea, Onion Rings",2025-04-18 15:28
+279,894,"Garlic Parmesan Wings, Classic Wings, Beer",2025-03-08 15:28
+280,446,"Garlic Parmesan Wings, Classic Wings, Lemonade, Onion Rings",2025-05-19 15:28
+281,976,"Honey Mustard Wings, Cheese Dip",2024-10-10 15:28
+282,846,"BBQ Wings, Garlic Parmesan Wings, Ranch Dip",2025-02-17 15:28
+283,867,"Garlic Parmesan Wings, Cheese Dip",2025-06-03 15:28
+284,755,"Spicy Wings, BBQ Wings, Onion Rings",2024-12-20 15:28
+285,159,"Garlic Parmesan Wings, Classic Wings, Ranch Dip",2025-04-04 15:28
+286,203,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread, Iced Tea",2025-06-29 15:28
+287,371,"Honey Mustard Wings, Garlic Parmesan Wings, Onion Rings, Garlic Bread",2025-05-02 15:28
+288,185,"BBQ Wings, Classic Wings, Ranch Dip, Blue Cheese Dip",2024-09-28 15:28
+289,893,"Classic Wings, BBQ Wings, Iced Tea, Garlic Bread",2024-08-04 15:28
+290,821,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Blue Cheese Dip, Garlic Bread",2024-08-15 15:28
+291,257,"Garlic Parmesan Wings, Fries",2025-04-22 15:28
+292,334,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Onion Rings",2025-05-07 15:28
+293,495,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Cola, Onion Rings",2025-05-25 15:28
+294,342,"BBQ Wings, Honey Mustard Wings, Fries, Lemonade",2025-02-04 15:28
+295,492,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Garlic Bread, Ranch Dip",2024-08-28 15:28
+296,777,"Garlic Parmesan Wings, Ranch Dip",2025-03-25 15:28
+297,552,"Honey Mustard Wings, Classic Wings, BBQ Wings, Beer, Onion Rings",2024-10-17 15:28
+298,356,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Onion Rings",2025-04-16 15:28
+299,909,"Spicy Wings, Honey Mustard Wings, Classic Wings, Garlic Bread, Cheese Dip",2024-10-21 15:28
+300,911,"Spicy Wings, Honey Mustard Wings, Classic Wings, Cheese Dip, Fries",2025-04-23 15:28
+301,681,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Beer, Fries",2024-10-25 15:28
+302,519,"BBQ Wings, Classic Wings, Blue Cheese Dip",2025-01-01 15:28
+303,330,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Onion Rings, Blue Cheese Dip",2024-12-26 15:28
+304,496,"Classic Wings, Honey Mustard Wings, BBQ Wings, Blue Cheese Dip",2024-12-15 15:28
+305,103,"Honey Mustard Wings, BBQ Wings, Iced Tea, Celery Sticks",2025-01-18 15:28
+306,245,"Classic Wings, BBQ Wings, Garlic Parmesan Wings, Cola",2025-01-12 15:28
+307,655,"Honey Mustard Wings, Iced Tea",2025-07-31 15:28
+308,924,"Garlic Parmesan Wings, Cheese Dip",2024-09-01 15:28
+309,386,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Lemonade",2024-11-17 15:28
+310,267,"Honey Mustard Wings, Iced Tea",2025-06-18 15:28
+311,432,"Classic Wings, Cola",2025-02-03 15:28
+312,600,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread",2024-12-17 15:28
+313,410,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Onion Rings",2024-08-22 15:28
+314,890,"Honey Mustard Wings, Spicy Wings, Classic Wings, Garlic Bread, Iced Tea",2025-01-26 15:28
+315,479,"Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings",2025-04-21 15:28
+316,966,"Garlic Parmesan Wings, Celery Sticks",2025-01-06 15:28
+317,225,"Classic Wings, Cheese Dip",2024-10-20 15:28
+318,905,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Cola",2025-05-17 15:28
+319,125,"Classic Wings, Cheese Dip, Iced Tea",2024-08-10 15:28
+320,561,"BBQ Wings, Celery Sticks, Cola",2025-07-29 15:28
+321,931,"Classic Wings, Garlic Parmesan Wings, Garlic Bread, Onion Rings",2025-04-16 15:28
+322,110,"Classic Wings, BBQ Wings, Spicy Wings, Cola, Garlic Bread",2024-08-18 15:28
+323,804,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Celery Sticks, Garlic Bread",2024-09-06 15:28
+324,261,"Spicy Wings, Honey Mustard Wings, Onion Rings, Iced Tea",2024-12-15 15:28
+325,752,"Garlic Parmesan Wings, Fries, Cola",2025-05-30 15:28
+326,993,"Spicy Wings, Honey Mustard Wings, Cheese Dip",2025-02-07 15:28
+327,732,"Garlic Parmesan Wings, BBQ Wings, Beer",2025-05-16 15:28
+328,321,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Blue Cheese Dip",2025-06-22 15:28
+329,427,"Honey Mustard Wings, Garlic Parmesan Wings, Garlic Bread",2024-12-20 15:28
+330,929,"Garlic Parmesan Wings, Lemonade, Celery Sticks",2025-05-18 15:28
+331,613,"BBQ Wings, Celery Sticks",2024-10-26 15:28
+332,227,"Honey Mustard Wings, Garlic Parmesan Wings, Blue Cheese Dip",2025-03-27 15:28
+333,190,"Honey Mustard Wings, Beer, Celery Sticks",2024-09-19 15:28
+334,523,"Garlic Parmesan Wings, BBQ Wings, Fries, Ranch Dip",2025-05-14 15:28
+335,811,"Honey Mustard Wings, Celery Sticks, Cheese Dip",2025-03-03 15:28
+336,325,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Lemonade",2024-10-10 15:28
+337,221,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Iced Tea, Blue Cheese Dip",2025-02-01 15:28
+338,523,"Honey Mustard Wings, BBQ Wings, Beer",2025-01-21 15:28
+339,965,"BBQ Wings, Garlic Bread",2025-04-23 15:28
+340,950,"Classic Wings, Garlic Parmesan Wings, Fries",2025-05-11 15:28
+341,759,"Garlic Parmesan Wings, Ranch Dip",2025-01-10 15:28
+342,540,"Garlic Parmesan Wings, Honey Mustard Wings, Garlic Bread, Ranch Dip",2025-07-05 15:28
+343,667,"Garlic Parmesan Wings, Ranch Dip, Beer",2025-06-10 15:28
+344,176,"BBQ Wings, Iced Tea",2025-04-09 15:28
+345,895,"Honey Mustard Wings, Onion Rings, Cheese Dip",2024-11-30 15:28
+346,946,"Garlic Parmesan Wings, Classic Wings, Celery Sticks",2024-09-03 15:28
+347,935,"BBQ Wings, Blue Cheese Dip",2024-12-30 15:28
+348,500,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread, Iced Tea",2024-11-25 15:28
+349,819,"Spicy Wings, Honey Mustard Wings, Classic Wings, Iced Tea",2025-07-12 15:28
+350,609,"Spicy Wings, Cheese Dip, Garlic Bread",2025-01-17 15:28
+351,166,"Garlic Parmesan Wings, BBQ Wings, Iced Tea",2025-05-04 15:28
+352,502,"Classic Wings, Beer, Lemonade",2024-12-04 15:28
+353,977,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Cola, Iced Tea",2024-12-21 15:28
+354,430,"BBQ Wings, Cola, Celery Sticks",2025-07-09 15:28
+355,422,"Spicy Wings, Honey Mustard Wings, Classic Wings, Garlic Bread, Cheese Dip",2025-01-21 15:28
+356,628,"BBQ Wings, Fries, Blue Cheese Dip",2024-08-24 15:28
+357,655,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Cola",2024-10-19 15:28
+358,710,"Spicy Wings, Garlic Parmesan Wings, BBQ Wings, Ranch Dip, Garlic Bread",2024-12-14 15:28
+359,558,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2024-12-15 15:28
+360,385,"Honey Mustard Wings, Classic Wings, Spicy Wings, Cheese Dip",2025-02-16 15:28
+361,518,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Celery Sticks",2025-01-05 15:28
+362,526,"Garlic Parmesan Wings, Iced Tea",2025-01-29 15:28
+363,233,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Onion Rings",2025-07-05 15:28
+364,756,"Honey Mustard Wings, BBQ Wings, Cheese Dip",2025-07-19 15:28
+365,918,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Blue Cheese Dip",2024-10-15 15:28
+366,164,"Honey Mustard Wings, Classic Wings, Ranch Dip, Fries",2024-09-26 15:28
+367,719,"Spicy Wings, Garlic Bread, Fries",2025-07-28 15:28
+368,794,"Garlic Parmesan Wings, Beer",2025-02-17 15:28
+369,836,"Honey Mustard Wings, Classic Wings, BBQ Wings, Blue Cheese Dip, Onion Rings",2025-01-08 15:28
+370,638,"Garlic Parmesan Wings, Spicy Wings, Honey Mustard Wings, Cola, Lemonade",2024-12-08 15:28
+371,649,"Spicy Wings, Honey Mustard Wings, Ranch Dip, Celery Sticks",2025-03-31 15:28
+372,439,"BBQ Wings, Spicy Wings, Cheese Dip, Lemonade",2025-07-22 15:28
+373,578,"Classic Wings, BBQ Wings, Honey Mustard Wings, Celery Sticks",2025-05-16 15:28
+374,259,"Spicy Wings, Iced Tea",2025-07-31 15:28
+375,633,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Garlic Bread",2024-09-01 15:28
+376,347,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Fries, Cola",2024-08-23 15:28
+377,696,"BBQ Wings, Garlic Bread, Blue Cheese Dip",2024-09-09 15:28
+378,997,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip",2024-12-15 15:28
+379,294,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Fries",2024-09-27 15:28
+380,616,"Garlic Parmesan Wings, Honey Mustard Wings, Ranch Dip",2025-05-29 15:28
+381,468,"Spicy Wings, Classic Wings, Honey Mustard Wings, Iced Tea",2024-10-21 15:28
+382,648,"Garlic Parmesan Wings, Cheese Dip",2025-01-14 15:28
+383,101,"Garlic Parmesan Wings, Spicy Wings, Lemonade, Fries",2024-12-03 15:28
+384,580,"Garlic Parmesan Wings, Spicy Wings, Blue Cheese Dip",2024-09-12 15:28
+385,820,"BBQ Wings, Classic Wings, Honey Mustard Wings, Onion Rings, Iced Tea",2025-04-28 15:28
+386,264,"BBQ Wings, Classic Wings, Ranch Dip",2025-03-19 15:28
+387,145,"Honey Mustard Wings, Classic Wings, BBQ Wings, Beer, Celery Sticks",2025-06-07 15:28
+388,125,"Garlic Parmesan Wings, BBQ Wings, Blue Cheese Dip, Cola",2024-10-05 15:28
+389,650,"Garlic Parmesan Wings, Cola, Onion Rings",2025-05-07 15:28
+390,116,"Garlic Parmesan Wings, Fries, Garlic Bread",2025-04-25 15:28
+391,728,"Classic Wings, BBQ Wings, Celery Sticks",2025-04-18 15:28
+392,807,"BBQ Wings, Celery Sticks, Lemonade",2024-10-07 15:28
+393,827,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Beer, Celery Sticks",2024-11-11 15:28
+394,958,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Iced Tea, Ranch Dip",2024-10-01 15:28
+395,484,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Fries, Iced Tea",2024-12-04 15:28
+396,278,"Spicy Wings, Garlic Parmesan Wings, Ranch Dip",2025-06-23 15:28
+397,843,"Honey Mustard Wings, Iced Tea",2024-10-20 15:28
+398,595,"Spicy Wings, Garlic Parmesan Wings, Blue Cheese Dip",2025-05-22 15:28
+399,522,"Garlic Parmesan Wings, Honey Mustard Wings, Iced Tea",2025-05-13 15:28
+400,663,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Iced Tea",2025-03-24 15:28
+401,528,"Spicy Wings, Blue Cheese Dip",2025-02-03 15:28
+402,551,"Garlic Parmesan Wings, Spicy Wings, Onion Rings, Blue Cheese Dip",2025-06-29 15:28
+403,450,"Classic Wings, BBQ Wings, Spicy Wings, Cola, Blue Cheese Dip",2024-08-30 15:28
+404,395,"BBQ Wings, Honey Mustard Wings, Cheese Dip",2025-06-02 15:28
+405,556,"Classic Wings, Honey Mustard Wings, Spicy Wings, Celery Sticks",2024-08-04 15:28
+406,252,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Onion Rings",2024-11-20 15:28
+407,972,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Lemonade, Garlic Bread",2025-04-05 15:28
+408,467,"BBQ Wings, Spicy Wings, Classic Wings, Blue Cheese Dip, Celery Sticks",2025-06-06 15:28
+409,135,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread",2024-10-25 15:28
+410,661,"Classic Wings, Garlic Parmesan Wings, Beer",2025-07-30 15:28
+411,765,"Garlic Parmesan Wings, Honey Mustard Wings, Lemonade, Beer",2025-05-20 15:28
+412,530,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Lemonade",2025-03-16 15:28
+413,477,"BBQ Wings, Spicy Wings, Onion Rings",2025-02-01 15:28
+414,595,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Beer",2025-07-31 15:28
+415,696,"Classic Wings, Honey Mustard Wings, BBQ Wings, Fries, Iced Tea",2024-12-23 15:28
+416,548,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Iced Tea, Ranch Dip",2024-08-04 15:28
+417,477,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Onion Rings, Lemonade",2024-09-11 15:28
+418,834,"Classic Wings, Cheese Dip, Garlic Bread",2025-03-17 15:28
+419,778,"Classic Wings, Lemonade, Iced Tea",2024-08-13 15:28
+420,288,"BBQ Wings, Spicy Wings, Onion Rings",2025-04-25 15:28
+421,278,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Fries, Cola",2024-08-05 15:28
+422,129,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Ranch Dip, Fries",2025-05-11 15:28
+423,154,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Cola",2024-10-12 15:28
+424,368,"Honey Mustard Wings, Beer, Cheese Dip",2025-04-07 15:28
+425,754,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Ranch Dip",2024-08-17 15:28
+426,376,"Honey Mustard Wings, Cheese Dip",2024-12-30 15:28
+427,925,"Spicy Wings, Honey Mustard Wings, Celery Sticks, Onion Rings",2024-12-25 15:28
+428,112,"BBQ Wings, Onion Rings, Blue Cheese Dip",2025-06-22 15:28
+429,370,"Spicy Wings, Garlic Parmesan Wings, BBQ Wings, Celery Sticks",2024-11-19 15:28
+430,762,"BBQ Wings, Classic Wings, Cola, Iced Tea",2024-10-28 15:28
+431,516,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Garlic Bread",2025-04-05 15:28
+432,802,"Honey Mustard Wings, Blue Cheese Dip",2024-09-16 15:28
+433,579,"Garlic Parmesan Wings, Honey Mustard Wings, Spicy Wings, Ranch Dip, Garlic Bread",2025-04-17 15:28
+434,485,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Beer, Fries",2025-06-07 15:28
+435,988,"Spicy Wings, BBQ Wings, Celery Sticks",2024-08-19 15:28
+436,260,"Honey Mustard Wings, Spicy Wings, BBQ Wings, Ranch Dip",2024-11-26 15:28
+437,177,"Spicy Wings, Garlic Parmesan Wings, Ranch Dip",2025-01-02 15:28
+438,306,"Garlic Parmesan Wings, Spicy Wings, Fries, Garlic Bread",2024-10-20 15:28
+439,540,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Iced Tea",2025-01-27 15:28
+440,651,"Spicy Wings, BBQ Wings, Iced Tea",2025-05-04 15:28
+441,994,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Blue Cheese Dip, Cola",2025-04-25 15:28
+442,738,"Classic Wings, Garlic Parmesan Wings, Beer",2025-06-11 15:28
+443,141,"Honey Mustard Wings, Classic Wings, Cheese Dip",2025-01-18 15:28
+444,285,"Spicy Wings, Garlic Parmesan Wings, Beer, Cola",2025-05-21 15:28
+445,590,"Spicy Wings, Onion Rings",2025-01-25 15:28
+446,572,"BBQ Wings, Classic Wings, Beer",2025-06-05 15:28
+447,876,"BBQ Wings, Spicy Wings, Cola",2024-08-23 15:28
+448,332,"Garlic Parmesan Wings, BBQ Wings, Cheese Dip",2025-03-06 15:28
+449,608,"Classic Wings, Garlic Bread, Cheese Dip",2025-01-26 15:28
+450,452,"Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2024-12-06 15:28
+451,520,"Garlic Parmesan Wings, Beer, Fries",2025-03-05 15:28
+452,213,"BBQ Wings, Garlic Parmesan Wings, Blue Cheese Dip",2025-03-21 15:28
+453,468,"Garlic Parmesan Wings, Classic Wings, Garlic Bread, Beer",2024-08-08 15:28
+454,862,"Spicy Wings, Honey Mustard Wings, BBQ Wings, Fries, Beer",2025-03-17 15:28
+455,832,"Classic Wings, Celery Sticks",2024-10-21 15:28
+456,352,"Spicy Wings, Cola, Iced Tea",2025-05-23 15:28
+457,312,"Spicy Wings, Blue Cheese Dip, Cola",2025-07-03 15:28
+458,346,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Cheese Dip, Lemonade",2025-01-27 15:28
+459,207,"Spicy Wings, Honey Mustard Wings, Onion Rings",2024-09-07 15:28
+460,795,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Beer",2024-10-28 15:28
+461,450,"BBQ Wings, Classic Wings, Onion Rings, Beer",2024-10-25 15:28
+462,696,"Classic Wings, Ranch Dip, Fries",2024-08-19 15:28
+463,430,"Classic Wings, Fries, Beer",2024-08-27 15:28
+464,280,"Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings, Cola",2025-01-08 15:28
+465,836,"Spicy Wings, BBQ Wings, Lemonade",2024-12-23 15:28
+466,911,"BBQ Wings, Ranch Dip",2025-02-05 15:28
+467,714,"Garlic Parmesan Wings, BBQ Wings, Lemonade, Garlic Bread",2025-02-22 15:28
+468,684,"Garlic Parmesan Wings, Beer",2025-05-19 15:28
+469,472,"BBQ Wings, Lemonade",2024-11-24 15:28
+470,622,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Garlic Bread",2024-10-27 15:28
+471,649,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Blue Cheese Dip, Cola",2025-06-16 15:28
+472,853,"BBQ Wings, Garlic Bread, Blue Cheese Dip",2025-02-28 15:28
+473,163,"Classic Wings, Lemonade, Blue Cheese Dip",2025-05-08 15:28
+474,164,"Garlic Parmesan Wings, Spicy Wings, Fries",2025-07-18 15:28
+475,264,"Spicy Wings, Lemonade, Cheese Dip",2025-04-02 15:28
+476,373,"BBQ Wings, Garlic Parmesan Wings, Classic Wings, Blue Cheese Dip",2024-11-14 15:28
+477,402,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Fries, Ranch Dip",2025-02-14 15:28
+478,821,"Garlic Parmesan Wings, Spicy Wings, Fries",2025-03-03 15:28
+479,611,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip, Lemonade",2024-12-21 15:28
+480,913,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings",2025-03-26 15:28
+481,515,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Cheese Dip",2024-09-01 15:28
+482,947,"Garlic Parmesan Wings, Ranch Dip",2025-02-08 15:28
+483,254,"Spicy Wings, Onion Rings, Ranch Dip",2024-08-22 15:28
+484,185,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Beer, Fries",2025-03-21 15:28
+485,732,"Garlic Parmesan Wings, BBQ Wings, Fries, Beer",2024-12-17 15:28
+486,172,"Classic Wings, Spicy Wings, Celery Sticks",2024-08-30 15:28
+487,958,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Celery Sticks, Blue Cheese Dip",2025-05-27 15:28
+488,625,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Blue Cheese Dip, Beer",2025-03-01 15:28
+489,772,"Spicy Wings, Lemonade, Garlic Bread",2025-07-10 15:28
+490,744,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Onion Rings",2024-10-04 15:28
+491,291,"Spicy Wings, BBQ Wings, Onion Rings",2024-09-20 15:28
+492,370,"Classic Wings, Blue Cheese Dip",2024-10-06 15:28
+493,602,"BBQ Wings, Spicy Wings, Fries",2024-09-19 15:28
+494,228,"Classic Wings, Honey Mustard Wings, Beer",2024-09-28 15:28
+495,818,"Spicy Wings, Blue Cheese Dip, Lemonade",2024-11-26 15:28
+496,584,"Spicy Wings, Garlic Parmesan Wings, Onion Rings, Cola",2025-02-22 15:28
+497,410,"Classic Wings, Honey Mustard Wings, Celery Sticks, Garlic Bread",2024-08-07 15:28
+498,779,"Classic Wings, BBQ Wings, Blue Cheese Dip",2025-05-14 15:28
+499,407,"Garlic Parmesan Wings, BBQ Wings, Cola",2025-02-24 15:28
+500,973,"BBQ Wings, Onion Rings, Iced Tea",2024-10-31 15:28
+501,680,"Honey Mustard Wings, Classic Wings, Spicy Wings, Garlic Bread, Lemonade",2025-04-09 15:28
+502,830,"BBQ Wings, Garlic Parmesan Wings, Blue Cheese Dip",2025-03-07 15:28
+503,132,"Garlic Parmesan Wings, Classic Wings, Fries",2025-01-07 15:28
+504,405,"BBQ Wings, Beer",2025-01-01 15:28
+505,185,"Spicy Wings, Cheese Dip",2024-11-08 15:28
+506,537,"Classic Wings, Honey Mustard Wings, Spicy Wings, Cola, Garlic Bread",2024-12-27 15:28
+507,520,"Garlic Parmesan Wings, Honey Mustard Wings, Cola, Ranch Dip",2024-12-18 15:28
+508,799,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip",2024-09-01 15:28
+509,367,"Honey Mustard Wings, Garlic Parmesan Wings, Celery Sticks",2025-05-31 15:28
+510,318,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Cola, Ranch Dip",2025-05-19 15:28
+511,510,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Cheese Dip",2025-03-22 15:28
+512,940,"Classic Wings, Cheese Dip, Blue Cheese Dip",2024-08-28 15:28
+513,803,"BBQ Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip, Lemonade",2024-09-11 15:28
+514,679,"Garlic Parmesan Wings, Spicy Wings, Honey Mustard Wings, Blue Cheese Dip",2024-10-31 15:28
+515,984,"BBQ Wings, Classic Wings, Honey Mustard Wings, Garlic Bread",2025-02-13 15:28
+516,196,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Celery Sticks",2024-11-21 15:28
+517,550,"Honey Mustard Wings, Ranch Dip, Onion Rings",2024-09-06 15:28
+518,232,"Spicy Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip",2025-03-10 15:28
+519,742,"Honey Mustard Wings, Ranch Dip",2025-03-20 15:28
+520,551,"Honey Mustard Wings, Classic Wings, Blue Cheese Dip, Ranch Dip",2025-06-09 15:28
+521,408,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Celery Sticks, Fries",2024-11-15 15:28
+522,883,"BBQ Wings, Classic Wings, Honey Mustard Wings, Celery Sticks",2025-02-13 15:28
+523,459,"BBQ Wings, Garlic Parmesan Wings, Garlic Bread, Cheese Dip",2024-11-13 15:28
+524,705,"Spicy Wings, Garlic Parmesan Wings, Honey Mustard Wings, Beer",2025-04-16 15:28
+525,283,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Lemonade",2025-01-13 15:28
+526,703,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip",2024-10-10 15:28
+527,575,"Spicy Wings, Ranch Dip",2024-09-03 15:28
+528,113,"Classic Wings, Lemonade",2025-03-12 15:28
+529,849,"Spicy Wings, Honey Mustard Wings, Classic Wings, Ranch Dip, Fries",2025-02-03 15:28
+530,827,"Classic Wings, BBQ Wings, Cheese Dip, Garlic Bread",2024-10-04 15:28
+531,695,"Garlic Parmesan Wings, BBQ Wings, Spicy Wings, Garlic Bread, Ranch Dip",2025-02-19 15:28
+532,128,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Cola, Garlic Bread",2024-09-13 15:28
+533,234,"Classic Wings, BBQ Wings, Fries, Cheese Dip",2025-02-19 15:28
+534,283,"Honey Mustard Wings, Spicy Wings, Onion Rings, Blue Cheese Dip",2025-02-07 15:28
+535,134,"BBQ Wings, Garlic Parmesan Wings, Onion Rings, Ranch Dip",2024-12-31 15:28
+536,209,"Honey Mustard Wings, Fries, Cola",2024-10-09 15:28
+537,238,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Blue Cheese Dip",2025-06-17 15:28
+538,979,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Celery Sticks",2025-06-13 15:28
+539,820,"Honey Mustard Wings, Classic Wings, Spicy Wings, Blue Cheese Dip, Celery Sticks",2024-12-02 15:28
+540,317,"Garlic Parmesan Wings, Cola, Garlic Bread",2025-06-01 15:28
+541,194,"Spicy Wings, Classic Wings, Fries, Cheese Dip",2025-01-06 15:28
+542,376,"Garlic Parmesan Wings, Onion Rings, Cola",2024-11-23 15:28
+543,631,"Honey Mustard Wings, Onion Rings, Cola",2024-12-17 15:28
+544,174,"Classic Wings, Garlic Parmesan Wings, Garlic Bread",2025-07-31 15:28
+545,121,"BBQ Wings, Onion Rings",2024-08-16 15:28
+546,432,"Honey Mustard Wings, Garlic Parmesan Wings, Celery Sticks",2025-07-05 15:28
+547,443,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Beer",2025-03-28 15:28
+548,925,"BBQ Wings, Beer, Cola",2025-07-01 15:28
+549,219,"Spicy Wings, Lemonade",2024-11-22 15:28
+550,948,"BBQ Wings, Cheese Dip, Iced Tea",2025-04-04 15:28
+551,361,"Spicy Wings, Onion Rings, Fries",2025-06-22 15:28
+552,410,"BBQ Wings, Lemonade, Cheese Dip",2025-03-01 15:28
+553,858,"Honey Mustard Wings, Spicy Wings, Beer, Lemonade",2025-07-17 15:28
+554,914,"Spicy Wings, Lemonade",2025-06-20 15:28
+555,351,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Garlic Bread, Blue Cheese Dip",2024-10-12 15:28
+556,372,"Honey Mustard Wings, Spicy Wings, Blue Cheese Dip, Cola",2025-01-09 15:28
+557,208,"BBQ Wings, Classic Wings, Spicy Wings, Iced Tea",2024-11-27 15:28
+558,338,"BBQ Wings, Spicy Wings, Classic Wings, Onion Rings, Lemonade",2025-01-05 15:28
+559,882,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Celery Sticks, Garlic Bread",2025-05-17 15:28
+560,797,"Spicy Wings, Garlic Parmesan Wings, Honey Mustard Wings, Iced Tea",2025-05-03 15:28
+561,982,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Garlic Bread, Iced Tea",2025-05-05 15:28
+562,390,"Garlic Parmesan Wings, Classic Wings, Fries, Cola",2025-05-15 15:28
+563,618,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Blue Cheese Dip",2025-07-25 15:28
+564,554,"Garlic Parmesan Wings, BBQ Wings, Cola",2024-08-28 15:28
+565,826,"Honey Mustard Wings, Ranch Dip",2025-03-17 15:28
+566,121,"BBQ Wings, Spicy Wings, Onion Rings, Celery Sticks",2024-08-24 15:28
+567,778,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Celery Sticks, Cola",2025-07-02 15:28
+568,319,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Garlic Bread",2025-03-24 15:28
+569,731,"BBQ Wings, Classic Wings, Cola",2025-04-06 15:28
+570,880,"BBQ Wings, Celery Sticks",2024-11-11 15:28
+571,923,"Spicy Wings, Honey Mustard Wings, Cola, Lemonade",2025-07-07 15:28
+572,851,"Garlic Parmesan Wings, Spicy Wings, Honey Mustard Wings, Blue Cheese Dip",2024-11-01 15:28
+573,945,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Blue Cheese Dip, Cheese Dip",2024-09-07 15:28
+574,944,"Garlic Parmesan Wings, Beer",2025-01-11 15:28
+575,342,"Classic Wings, BBQ Wings, Blue Cheese Dip",2025-02-28 15:28
+576,513,"Classic Wings, BBQ Wings, Beer, Fries",2024-12-27 15:28
+577,690,"Classic Wings, Blue Cheese Dip, Ranch Dip",2024-11-15 15:28
+578,576,"BBQ Wings, Cheese Dip, Beer",2025-02-24 15:28
+579,136,"Spicy Wings, Honey Mustard Wings, Classic Wings, Celery Sticks",2024-11-12 15:28
+580,615,"Classic Wings, Garlic Parmesan Wings, Cheese Dip",2025-03-11 15:28
+581,328,"BBQ Wings, Honey Mustard Wings, Garlic Parmesan Wings, Iced Tea, Ranch Dip",2025-08-03 15:28
+582,222,"Honey Mustard Wings, BBQ Wings, Spicy Wings, Garlic Bread, Celery Sticks",2025-02-04 15:28
+583,721,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Garlic Bread",2024-09-13 15:28
+584,868,"Classic Wings, Spicy Wings, Beer",2025-02-25 15:28
+585,414,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Ranch Dip, Cola",2024-12-21 15:28
+586,353,"Honey Mustard Wings, Spicy Wings, Beer, Lemonade",2025-02-13 15:28
+587,522,"Classic Wings, Spicy Wings, Cola, Cheese Dip",2024-08-20 15:28
+588,604,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Lemonade",2025-06-05 15:28
+589,711,"BBQ Wings, Garlic Parmesan Wings, Cola, Onion Rings",2025-04-07 15:28
+590,262,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Ranch Dip",2025-07-03 15:28
+591,304,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Iced Tea, Blue Cheese Dip",2024-12-26 15:28
+592,528,"Honey Mustard Wings, Celery Sticks, Cheese Dip",2025-03-08 15:28
+593,323,"Classic Wings, BBQ Wings, Spicy Wings, Garlic Bread, Beer",2024-08-23 15:28
+594,344,"Garlic Parmesan Wings, Honey Mustard Wings, Spicy Wings, Blue Cheese Dip, Celery Sticks",2025-04-03 15:28
+595,876,"Classic Wings, Honey Mustard Wings, Garlic Bread",2025-05-06 15:28
+596,611,"Classic Wings, Garlic Parmesan Wings, Cheese Dip, Cola",2024-08-27 15:28
+597,309,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Onion Rings, Lemonade",2025-01-17 15:28
+598,303,"Spicy Wings, Celery Sticks",2024-09-17 15:28
+599,892,"BBQ Wings, Spicy Wings, Classic Wings, Fries, Celery Sticks",2025-07-25 15:28
+600,246,"BBQ Wings, Classic Wings, Lemonade, Cola",2025-06-08 15:28
+601,341,"Honey Mustard Wings, Classic Wings, Spicy Wings, Beer",2024-09-04 15:28
+602,158,"Honey Mustard Wings, Lemonade, Beer",2025-01-13 15:28
+603,986,"Classic Wings, BBQ Wings, Beer, Onion Rings",2024-11-05 15:28
+604,688,"Honey Mustard Wings, Classic Wings, Onion Rings, Beer",2025-07-14 15:28
+605,669,"BBQ Wings, Garlic Parmesan Wings, Cola, Blue Cheese Dip",2024-09-18 15:28
+606,253,"BBQ Wings, Spicy Wings, Blue Cheese Dip",2025-07-24 15:28
+607,414,"Spicy Wings, Blue Cheese Dip",2024-12-27 15:28
+608,194,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Fries, Onion Rings",2025-06-30 15:28
+609,551,"Spicy Wings, Classic Wings, Honey Mustard Wings, Garlic Bread, Fries",2024-10-26 15:28
+610,171,"Spicy Wings, Classic Wings, BBQ Wings, Lemonade, Ranch Dip",2025-04-03 15:28
+611,725,"Garlic Parmesan Wings, Onion Rings, Iced Tea",2025-04-07 15:28
+612,599,"BBQ Wings, Classic Wings, Spicy Wings, Garlic Bread, Ranch Dip",2024-11-14 15:28
+613,373,"BBQ Wings, Classic Wings, Onion Rings",2025-01-16 15:28
+614,420,"Honey Mustard Wings, Spicy Wings, Beer, Fries",2024-12-08 15:28
+615,662,"Spicy Wings, Blue Cheese Dip, Fries",2025-01-08 15:28
+616,409,"Classic Wings, Cola, Blue Cheese Dip",2024-11-27 15:28
+617,775,"Classic Wings, Cheese Dip",2024-08-19 15:28
+618,648,"BBQ Wings, Honey Mustard Wings, Classic Wings, Cola, Onion Rings",2025-06-14 15:28
+619,107,"Classic Wings, Honey Mustard Wings, Spicy Wings, Cola",2024-10-18 15:28
+620,878,"Garlic Parmesan Wings, BBQ Wings, Garlic Bread",2024-11-01 15:28
+621,143,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Celery Sticks",2025-07-09 15:28
+622,133,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Cola",2025-02-22 15:28
+623,569,"Honey Mustard Wings, Onion Rings, Celery Sticks",2025-06-03 15:28
+624,438,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Cola",2024-11-29 15:28
+625,538,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Celery Sticks, Cola",2024-10-27 15:28
+626,574,"Spicy Wings, Honey Mustard Wings, Cheese Dip, Blue Cheese Dip",2025-07-27 15:28
+627,827,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Garlic Bread, Onion Rings",2025-04-15 15:28
+628,197,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Ranch Dip",2024-08-18 15:28
+629,733,"Spicy Wings, Fries",2024-11-13 15:28
+630,851,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Iced Tea",2024-10-27 15:28
+631,420,"Classic Wings, Garlic Parmesan Wings, Celery Sticks, Iced Tea",2025-03-07 15:28
+632,669,"Honey Mustard Wings, Onion Rings",2025-07-01 15:28
+633,997,"Classic Wings, Honey Mustard Wings, BBQ Wings, Fries, Garlic Bread",2024-12-22 15:28
+634,665,"BBQ Wings, Spicy Wings, Onion Rings, Blue Cheese Dip",2025-01-22 15:28
+635,414,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Ranch Dip",2025-02-04 15:28
+636,865,"Garlic Parmesan Wings, Blue Cheese Dip, Beer",2024-10-29 15:28
+637,394,"Honey Mustard Wings, Ranch Dip",2025-05-04 15:28
+638,619,"Honey Mustard Wings, Garlic Parmesan Wings, Classic Wings, Iced Tea, Garlic Bread",2025-07-23 15:28
+639,384,"Spicy Wings, Honey Mustard Wings, Blue Cheese Dip, Cola",2025-06-13 15:28
+640,667,"Garlic Parmesan Wings, Garlic Bread",2025-01-12 15:28
+641,735,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Cola, Celery Sticks",2024-09-23 15:28
+642,293,"Classic Wings, Onion Rings, Cola",2024-12-30 15:28
+643,265,"Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings",2025-01-04 15:28
+644,232,"Garlic Parmesan Wings, Blue Cheese Dip, Cheese Dip",2024-10-25 15:28
+645,968,"Honey Mustard Wings, Garlic Bread",2024-10-03 15:28
+646,670,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Cola, Celery Sticks",2024-10-22 15:28
+647,793,"Honey Mustard Wings, Garlic Parmesan Wings, Garlic Bread, Blue Cheese Dip",2025-05-26 15:28
+648,638,"BBQ Wings, Cola, Lemonade",2025-01-30 15:28
+649,973,"BBQ Wings, Honey Mustard Wings, Garlic Parmesan Wings, Onion Rings",2025-06-21 15:28
+650,548,"Garlic Parmesan Wings, Classic Wings, Beer, Fries",2024-12-31 15:28
+651,425,"Classic Wings, Garlic Parmesan Wings, Beer",2025-07-06 15:28
+652,411,"Classic Wings, Onion Rings",2025-06-21 15:28
+653,190,"BBQ Wings, Classic Wings, Fries, Garlic Bread",2025-01-04 15:28
+654,706,"Classic Wings, Ranch Dip",2024-10-04 15:28
+655,872,"Honey Mustard Wings, Lemonade, Celery Sticks",2025-03-12 15:28
+656,528,"Honey Mustard Wings, BBQ Wings, Cheese Dip, Fries",2025-05-13 15:28
+657,420,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Cola, Onion Rings",2025-01-14 15:28
+658,300,"Spicy Wings, Honey Mustard Wings, Iced Tea",2024-10-05 15:28
+659,700,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Ranch Dip, Garlic Bread",2024-08-05 15:28
+660,281,"Garlic Parmesan Wings, BBQ Wings, Lemonade",2024-10-01 15:28
+661,748,"Classic Wings, Blue Cheese Dip, Garlic Bread",2025-04-11 15:28
+662,462,"Spicy Wings, Blue Cheese Dip",2025-06-09 15:28
+663,254,"Spicy Wings, Garlic Parmesan Wings, Beer",2025-01-23 15:28
+664,276,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Garlic Bread",2024-12-14 15:28
+665,372,"Garlic Parmesan Wings, Honey Mustard Wings, Ranch Dip, Celery Sticks",2025-05-13 15:28
+666,320,"Spicy Wings, Classic Wings, Iced Tea, Blue Cheese Dip",2024-08-21 15:28
+667,103,"Classic Wings, Garlic Bread",2025-01-15 15:28
+668,706,"Spicy Wings, Classic Wings, Lemonade",2024-08-16 15:28
+669,316,"Honey Mustard Wings, Lemonade, Onion Rings",2024-10-20 15:28
+670,162,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Celery Sticks",2025-02-21 15:28
+671,958,"Honey Mustard Wings, BBQ Wings, Blue Cheese Dip",2025-05-26 15:28
+672,675,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Beer, Ranch Dip",2024-11-12 15:28
+673,696,"Garlic Parmesan Wings, BBQ Wings, Fries, Celery Sticks",2024-12-27 15:28
+674,209,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Lemonade, Ranch Dip",2025-03-12 15:28
+675,597,"Garlic Parmesan Wings, Classic Wings, Garlic Bread, Ranch Dip",2024-08-19 15:28
+676,786,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Ranch Dip, Beer",2025-01-15 15:28
+677,182,"Classic Wings, BBQ Wings, Fries, Blue Cheese Dip",2025-06-01 15:28
+678,708,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Garlic Bread",2025-02-17 15:28
+679,853,"Classic Wings, BBQ Wings, Honey Mustard Wings, Ranch Dip",2025-02-11 15:28
+680,777,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Celery Sticks, Garlic Bread",2025-03-16 15:28
+681,200,"Honey Mustard Wings, Onion Rings",2024-08-06 15:28
+682,398,"Classic Wings, Honey Mustard Wings, Garlic Parmesan Wings, Onion Rings, Celery Sticks",2024-09-15 15:28
+683,349,"Garlic Parmesan Wings, Honey Mustard Wings, Fries, Blue Cheese Dip",2025-03-15 15:28
+684,937,"BBQ Wings, Classic Wings, Garlic Parmesan Wings, Garlic Bread",2025-05-11 15:28
+685,421,"BBQ Wings, Garlic Parmesan Wings, Ranch Dip",2024-11-23 15:28
+686,750,"BBQ Wings, Classic Wings, Beer, Lemonade",2025-07-12 15:28
+687,246,"Honey Mustard Wings, Garlic Parmesan Wings, Classic Wings, Iced Tea",2025-06-05 15:28
+688,630,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Fries",2025-02-02 15:28
+689,554,"Honey Mustard Wings, Classic Wings, Celery Sticks, Iced Tea",2025-05-16 15:28
+690,687,"BBQ Wings, Classic Wings, Honey Mustard Wings, Iced Tea",2025-02-20 15:28
+691,420,"Spicy Wings, Honey Mustard Wings, BBQ Wings, Iced Tea",2024-10-05 15:28
+692,416,"Spicy Wings, Cola",2024-09-30 15:28
+693,363,"Honey Mustard Wings, Onion Rings, Cola",2025-06-27 15:28
+694,147,"Spicy Wings, Honey Mustard Wings, Lemonade",2025-01-25 15:28
+695,417,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Garlic Bread, Cheese Dip",2025-07-25 15:28
+696,866,"Spicy Wings, Classic Wings, Beer, Lemonade",2025-03-27 15:28
+697,351,"BBQ Wings, Honey Mustard Wings, Garlic Parmesan Wings, Beer",2024-11-09 15:28
+698,267,"Honey Mustard Wings, Fries",2025-07-21 15:28
+699,409,"Honey Mustard Wings, Garlic Parmesan Wings, Classic Wings, Beer, Ranch Dip",2024-11-23 15:28
+700,709,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Fries, Blue Cheese Dip",2025-02-13 15:28
+701,317,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2025-05-26 15:28
+702,416,"Garlic Parmesan Wings, Spicy Wings, Beer, Onion Rings",2025-01-06 15:28
+703,681,"Honey Mustard Wings, Garlic Parmesan Wings, Spicy Wings, Celery Sticks",2025-05-07 15:28
+704,400,"Spicy Wings, Beer",2025-06-23 15:28
+705,360,"Garlic Parmesan Wings, Honey Mustard Wings, Ranch Dip",2025-04-10 15:28
+706,440,"BBQ Wings, Ranch Dip, Cheese Dip",2025-04-14 15:28
+707,157,"Garlic Parmesan Wings, BBQ Wings, Classic Wings, Cola, Blue Cheese Dip",2025-01-22 15:28
+708,215,"Spicy Wings, Classic Wings, BBQ Wings, Blue Cheese Dip, Beer",2025-03-12 15:28
+709,213,"Honey Mustard Wings, Spicy Wings, Cola, Fries",2025-04-20 15:28
+710,729,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Cheese Dip, Ranch Dip",2025-04-09 15:28
+711,498,"Spicy Wings, Classic Wings, Lemonade",2025-06-28 15:28
+712,982,"Spicy Wings, Ranch Dip",2025-06-24 15:28
+713,651,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Cola, Fries",2025-06-19 15:28
+714,671,"Spicy Wings, Garlic Parmesan Wings, Honey Mustard Wings, Cheese Dip",2024-10-12 15:28
+715,240,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Garlic Bread",2024-12-10 15:28
+716,619,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Garlic Bread, Cheese Dip",2025-06-20 15:28
+717,580,"Honey Mustard Wings, Classic Wings, Beer, Onion Rings",2025-05-17 15:28
+718,655,"Honey Mustard Wings, Cheese Dip, Fries",2024-12-12 15:28
+719,355,"Spicy Wings, Beer, Fries",2024-08-28 15:28
+720,962,"Classic Wings, Garlic Parmesan Wings, Ranch Dip",2024-08-29 15:28
+721,589,"Spicy Wings, Honey Mustard Wings, Cheese Dip",2025-02-27 15:28
+722,607,"Spicy Wings, Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings, Cheese Dip",2025-06-28 15:28
+723,846,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Beer, Cheese Dip",2024-09-21 15:28
+724,850,"Classic Wings, Ranch Dip, Garlic Bread",2025-06-19 15:28
+725,294,"Honey Mustard Wings, Spicy Wings, Cheese Dip, Beer",2024-12-05 15:28
+726,430,"Classic Wings, Spicy Wings, BBQ Wings, Beer",2024-09-06 15:28
+727,570,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Fries",2025-04-18 15:28
+728,659,"Garlic Parmesan Wings, Classic Wings, Onion Rings",2024-11-19 15:28
+729,595,"Classic Wings, Lemonade, Iced Tea",2025-04-23 15:28
+730,195,"Honey Mustard Wings, Lemonade",2024-10-27 15:28
+731,230,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Onion Rings, Blue Cheese Dip",2024-10-18 15:28
+732,593,"Garlic Parmesan Wings, Spicy Wings, Celery Sticks",2025-07-20 15:28
+733,819,"Garlic Parmesan Wings, BBQ Wings, Garlic Bread, Lemonade",2025-07-03 15:28
+734,100,"Honey Mustard Wings, Spicy Wings, Classic Wings, Onion Rings",2025-04-13 15:28
+735,426,"Classic Wings, Garlic Parmesan Wings, BBQ Wings, Blue Cheese Dip, Cheese Dip",2025-01-20 15:28
+736,101,"BBQ Wings, Garlic Parmesan Wings, Fries, Blue Cheese Dip",2025-07-02 15:28
+737,253,"Honey Mustard Wings, Iced Tea, Garlic Bread",2025-06-12 15:28
+738,370,"Spicy Wings, BBQ Wings, Classic Wings, Lemonade, Ranch Dip",2024-10-18 15:28
+739,480,"Classic Wings, BBQ Wings, Spicy Wings, Blue Cheese Dip, Ranch Dip",2025-05-12 15:28
+740,683,"Classic Wings, Ranch Dip, Garlic Bread",2024-10-22 15:28
+741,914,"Classic Wings, Garlic Bread",2024-11-20 15:28
+742,174,"Garlic Parmesan Wings, Spicy Wings, Lemonade, Ranch Dip",2025-01-05 15:28
+743,815,"Garlic Parmesan Wings, Spicy Wings, Garlic Bread",2024-12-01 15:28
+744,670,"Classic Wings, Garlic Bread, Cheese Dip",2024-12-05 15:28
+745,257,"Garlic Parmesan Wings, Classic Wings, Spicy Wings, Iced Tea, Garlic Bread",2025-06-30 15:28
+746,188,"Garlic Parmesan Wings, Classic Wings, Garlic Bread",2024-12-03 15:28
+747,417,"Spicy Wings, Garlic Bread",2025-06-15 15:28
+748,147,"Classic Wings, Ranch Dip",2025-05-20 15:28
+749,782,"BBQ Wings, Classic Wings, Beer, Blue Cheese Dip",2025-01-28 15:28
+750,998,"Spicy Wings, Iced Tea",2024-11-24 15:28
+751,231,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Celery Sticks, Ranch Dip",2025-04-14 15:28
+752,259,"Classic Wings, Cola, Beer",2025-06-28 15:28
+753,743,"BBQ Wings, Iced Tea",2024-09-25 15:28
+754,746,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Blue Cheese Dip",2024-10-11 15:28
+755,944,"Honey Mustard Wings, Cheese Dip, Garlic Bread",2024-12-14 15:28
+756,809,"Garlic Parmesan Wings, Spicy Wings, Honey Mustard Wings, Iced Tea",2025-02-08 15:28
+757,712,"Spicy Wings, Beer, Celery Sticks",2025-07-01 15:28
+758,863,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Garlic Bread",2025-03-09 15:28
+759,637,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Lemonade, Blue Cheese Dip",2024-09-22 15:28
+760,648,"Garlic Parmesan Wings, Cola",2025-06-03 15:28
+761,723,"BBQ Wings, Classic Wings, Cola",2025-06-05 15:28
+762,558,"BBQ Wings, Classic Wings, Honey Mustard Wings, Lemonade",2024-11-15 15:28
+763,470,"Honey Mustard Wings, Spicy Wings, Classic Wings, Cheese Dip, Garlic Bread",2025-02-19 15:28
+764,787,"Garlic Parmesan Wings, Classic Wings, BBQ Wings, Blue Cheese Dip, Cheese Dip",2025-01-01 15:28
+765,733,"Spicy Wings, Classic Wings, Iced Tea, Lemonade",2025-03-22 15:28
+766,405,"BBQ Wings, Garlic Bread, Fries",2025-02-12 15:28
+767,849,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Iced Tea",2024-11-08 15:28
+768,922,"BBQ Wings, Iced Tea, Garlic Bread",2024-10-09 15:28
+769,231,"Classic Wings, Lemonade",2025-07-07 15:28
+770,865,"Classic Wings, Honey Mustard Wings, Onion Rings",2025-01-17 15:28
+771,686,"Spicy Wings, BBQ Wings, Cola, Cheese Dip",2025-07-28 15:28
+772,484,"Garlic Parmesan Wings, Classic Wings, Lemonade",2025-06-10 15:28
+773,480,"Classic Wings, Fries",2025-05-16 15:28
+774,564,"Spicy Wings, Garlic Parmesan Wings, BBQ Wings, Cheese Dip",2025-06-05 15:28
+775,190,"Classic Wings, Beer",2025-01-01 15:28
+776,206,"Classic Wings, Celery Sticks",2025-06-07 15:28
+777,845,"Classic Wings, Iced Tea, Blue Cheese Dip",2025-07-14 15:28
+778,320,"Honey Mustard Wings, Spicy Wings, Ranch Dip, Fries",2025-04-29 15:28
+779,240,"BBQ Wings, Cola, Beer",2025-03-25 15:28
+780,857,"Classic Wings, Cola",2024-11-24 15:28
+781,605,"Classic Wings, Honey Mustard Wings, Spicy Wings, Lemonade",2024-11-30 15:28
+782,504,"Classic Wings, Beer",2025-03-21 15:28
+783,794,"Spicy Wings, Cheese Dip",2025-06-20 15:28
+784,601,"Spicy Wings, Classic Wings, Fries, Beer",2025-08-03 15:28
+785,903,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Cheese Dip",2024-08-21 15:28
+786,367,"Honey Mustard Wings, BBQ Wings, Cola",2025-01-15 15:28
+787,650,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Cheese Dip",2024-09-29 15:28
+788,977,"BBQ Wings, Honey Mustard Wings, Spicy Wings, Lemonade",2025-07-18 15:28
+789,756,"Honey Mustard Wings, Classic Wings, Onion Rings",2025-03-28 15:28
+790,335,"Honey Mustard Wings, Classic Wings, Onion Rings, Cheese Dip",2025-02-17 15:28
+791,992,"Classic Wings, BBQ Wings, Honey Mustard Wings, Iced Tea, Lemonade",2025-03-19 15:28
+792,778,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Beer, Iced Tea",2025-07-18 15:28
+793,323,"Classic Wings, Blue Cheese Dip, Iced Tea",2024-12-31 15:28
+794,125,"Spicy Wings, Honey Mustard Wings, Garlic Bread, Beer",2025-03-24 15:28
+795,102,"Spicy Wings, Iced Tea",2024-09-05 15:28
+796,566,"Garlic Parmesan Wings, Spicy Wings, Cola, Garlic Bread",2025-05-19 15:28
+797,286,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Fries, Garlic Bread",2025-07-24 15:28
+798,192,"Garlic Parmesan Wings, Classic Wings, Cheese Dip",2024-11-27 15:28
+799,998,"Garlic Parmesan Wings, Classic Wings, Blue Cheese Dip",2024-10-10 15:28
+800,571,"Spicy Wings, Lemonade",2024-09-23 15:28
+801,274,"BBQ Wings, Ranch Dip, Lemonade",2024-11-14 15:28
+802,641,"Classic Wings, Garlic Parmesan Wings, Beer, Blue Cheese Dip",2025-03-22 15:28
+803,586,"Classic Wings, BBQ Wings, Beer",2025-04-11 15:28
+804,801,"Classic Wings, Celery Sticks, Lemonade",2025-06-11 15:28
+805,877,"Spicy Wings, Iced Tea",2025-05-04 15:28
+806,992,"Honey Mustard Wings, Beer",2025-07-02 15:28
+807,134,"Spicy Wings, Onion Rings, Fries",2024-10-05 15:28
+808,591,"Garlic Parmesan Wings, Fries, Ranch Dip",2025-02-28 15:28
+809,766,"Classic Wings, BBQ Wings, Beer, Lemonade",2024-09-24 15:28
+810,437,"Spicy Wings, BBQ Wings, Garlic Parmesan Wings, Iced Tea, Cola",2025-06-24 15:28
+811,222,"Honey Mustard Wings, Classic Wings, Ranch Dip, Cheese Dip",2024-12-16 15:28
+812,800,"Honey Mustard Wings, Garlic Parmesan Wings, Blue Cheese Dip, Cola",2024-08-20 15:28
+813,214,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Celery Sticks, Lemonade",2025-04-22 15:28
+814,665,"Classic Wings, Celery Sticks",2025-03-24 15:28
+815,392,"Garlic Parmesan Wings, Blue Cheese Dip",2025-04-28 15:28
+816,462,"Honey Mustard Wings, Cheese Dip, Iced Tea",2025-03-29 15:28
+817,546,"Spicy Wings, Honey Mustard Wings, Classic Wings, Iced Tea",2025-07-30 15:28
+818,410,"Honey Mustard Wings, Fries",2025-04-30 15:28
+819,805,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Iced Tea, Onion Rings",2024-11-17 15:28
+820,836,"Honey Mustard Wings, Beer",2024-09-17 15:28
+821,737,"BBQ Wings, Honey Mustard Wings, Fries, Onion Rings",2024-08-13 15:28
+822,545,"Honey Mustard Wings, Ranch Dip, Cheese Dip",2024-12-06 15:28
+823,358,"Honey Mustard Wings, BBQ Wings, Onion Rings, Beer",2025-05-11 15:28
+824,152,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Cheese Dip, Celery Sticks",2025-06-16 15:28
+825,433,"Garlic Parmesan Wings, Onion Rings",2025-06-28 15:28
+826,804,"BBQ Wings, Spicy Wings, Honey Mustard Wings, Ranch Dip",2025-07-22 15:28
+827,272,"BBQ Wings, Honey Mustard Wings, Classic Wings, Iced Tea, Ranch Dip",2025-02-10 15:28
+828,147,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Onion Rings",2025-03-13 15:28
+829,606,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Cola",2025-01-17 15:28
+830,526,"Honey Mustard Wings, Classic Wings, Garlic Parmesan Wings, Lemonade, Cheese Dip",2025-05-31 15:28
+831,411,"Spicy Wings, Honey Mustard Wings, Celery Sticks, Cola",2025-02-08 15:28
+832,611,"Classic Wings, Lemonade",2024-08-07 15:28
+833,399,"BBQ Wings, Garlic Parmesan Wings, Honey Mustard Wings, Lemonade",2025-06-28 15:28
+834,306,"Honey Mustard Wings, BBQ Wings, Garlic Parmesan Wings, Cheese Dip, Cola",2025-01-07 15:28
+835,654,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Beer",2024-10-28 15:28
+836,519,"BBQ Wings, Celery Sticks",2024-12-15 15:28
+837,617,"Spicy Wings, Iced Tea, Cola",2024-12-28 15:28
+838,362,"Garlic Parmesan Wings, Onion Rings",2025-07-04 15:28
+839,267,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Cola",2025-01-12 15:28
+840,679,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Beer, Blue Cheese Dip",2024-09-08 15:28
+841,543,"Garlic Parmesan Wings, Fries, Cheese Dip",2025-07-24 15:28
+842,553,"Honey Mustard Wings, Blue Cheese Dip, Onion Rings",2025-03-13 15:28
+843,524,"Honey Mustard Wings, Spicy Wings, Garlic Parmesan Wings, Cheese Dip, Garlic Bread",2024-09-30 15:28
+844,481,"BBQ Wings, Garlic Parmesan Wings, Classic Wings, Cheese Dip, Lemonade",2025-03-06 15:28
+845,270,"Spicy Wings, Beer, Onion Rings",2024-08-12 15:28
+846,252,"Honey Mustard Wings, BBQ Wings, Classic Wings, Celery Sticks",2025-02-12 15:28
+847,658,"BBQ Wings, Lemonade, Cheese Dip",2024-09-20 15:28
+848,391,"BBQ Wings, Honey Mustard Wings, Garlic Bread",2025-06-21 15:28
+849,851,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Fries, Ranch Dip",2024-08-28 15:28
+850,945,"Classic Wings, BBQ Wings, Beer",2025-06-24 15:28
+851,778,"Classic Wings, BBQ Wings, Spicy Wings, Cola",2025-01-29 15:28
+852,845,"BBQ Wings, Spicy Wings, Onion Rings, Beer",2025-01-31 15:28
+853,801,"Classic Wings, Honey Mustard Wings, Cola",2025-06-03 15:28
+854,420,"BBQ Wings, Lemonade",2024-10-02 15:28
+855,730,"Spicy Wings, Blue Cheese Dip, Onion Rings",2025-02-13 15:28
+856,941,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Cola",2025-06-07 15:28
+857,993,"Classic Wings, Spicy Wings, Garlic Parmesan Wings, Blue Cheese Dip",2025-03-13 15:28
+858,227,"Spicy Wings, Iced Tea, Cola",2025-05-13 15:28
+859,864,"Spicy Wings, Garlic Parmesan Wings, Classic Wings, Onion Rings, Ranch Dip",2025-07-31 15:28
+860,549,"BBQ Wings, Blue Cheese Dip",2024-09-12 15:28
+861,969,"Garlic Parmesan Wings, Classic Wings, Fries",2025-01-03 15:28
+862,736,"Classic Wings, Beer, Cheese Dip",2025-01-16 15:28
+863,384,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Onion Rings, Lemonade",2024-09-24 15:28
+864,200,"Honey Mustard Wings, Classic Wings, Spicy Wings, Cheese Dip, Cola",2024-08-16 15:28
+865,992,"BBQ Wings, Garlic Parmesan Wings, Spicy Wings, Lemonade",2024-12-30 15:28
+866,955,"Garlic Parmesan Wings, Spicy Wings, Classic Wings, Cheese Dip",2025-05-11 15:28
+867,250,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Ranch Dip",2025-01-29 15:28
+868,806,"BBQ Wings, Garlic Bread",2024-10-27 15:28
+869,410,"Garlic Parmesan Wings, Celery Sticks, Garlic Bread",2024-10-05 15:28
+870,358,"Spicy Wings, Garlic Bread, Cheese Dip",2024-12-15 15:28
+871,752,"Garlic Parmesan Wings, Iced Tea, Celery Sticks",2025-04-22 15:28
+872,269,"Classic Wings, Spicy Wings, Honey Mustard Wings, Iced Tea, Blue Cheese Dip",2024-12-08 15:28
+873,726,"BBQ Wings, Garlic Parmesan Wings, Blue Cheese Dip, Iced Tea",2024-08-23 15:28
+874,821,"BBQ Wings, Blue Cheese Dip, Onion Rings",2024-12-15 15:28
+875,102,"Garlic Parmesan Wings, Spicy Wings, Blue Cheese Dip",2024-11-22 15:28
+876,203,"Honey Mustard Wings, Garlic Parmesan Wings, Cheese Dip, Beer",2024-10-02 15:28
+877,931,"Garlic Parmesan Wings, Spicy Wings, Celery Sticks, Lemonade",2025-06-09 15:28
+878,975,"Honey Mustard Wings, Ranch Dip",2025-07-13 15:28
+879,829,"BBQ Wings, Spicy Wings, Garlic Parmesan Wings, Onion Rings",2025-02-22 15:28
+880,334,"BBQ Wings, Garlic Parmesan Wings, Ranch Dip, Lemonade",2024-12-30 15:28
+881,127,"Honey Mustard Wings, Spicy Wings, Classic Wings, Lemonade",2025-04-27 15:28
+882,704,"Classic Wings, Blue Cheese Dip",2025-01-31 15:28
+883,284,"Spicy Wings, BBQ Wings, Cheese Dip",2025-01-23 15:28
+884,875,"Classic Wings, Honey Mustard Wings, Celery Sticks, Beer",2025-01-16 15:28
+885,340,"Classic Wings, Ranch Dip",2025-06-24 15:28
+886,399,"Garlic Parmesan Wings, Classic Wings, Ranch Dip, Iced Tea",2025-06-18 15:28
+887,751,"Spicy Wings, BBQ Wings, Fries, Garlic Bread",2025-04-24 15:28
+888,875,"BBQ Wings, Spicy Wings, Classic Wings, Cola, Blue Cheese Dip",2025-04-14 15:28
+889,301,"Honey Mustard Wings, Classic Wings, Spicy Wings, Fries",2025-07-14 15:28
+890,742,"Classic Wings, Blue Cheese Dip, Beer",2025-02-25 15:28
+891,471,"Spicy Wings, Classic Wings, Garlic Parmesan Wings, Cola",2024-12-25 15:28
+892,126,"Classic Wings, Blue Cheese Dip",2024-09-12 15:28
+893,976,"BBQ Wings, Honey Mustard Wings, Garlic Parmesan Wings, Ranch Dip, Lemonade",2024-09-14 15:28
+894,364,"BBQ Wings, Spicy Wings, Fries",2024-09-13 15:28
+895,253,"Honey Mustard Wings, Cheese Dip",2024-08-09 15:28
+896,575,"Spicy Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip",2024-09-27 15:28
+897,661,"Classic Wings, Spicy Wings, BBQ Wings, Celery Sticks",2024-10-07 15:28
+898,149,"Garlic Parmesan Wings, Classic Wings, BBQ Wings, Ranch Dip, Celery Sticks",2025-02-27 15:28
+899,834,"Spicy Wings, Honey Mustard Wings, Onion Rings, Lemonade",2024-10-13 15:28
+900,565,"Classic Wings, Garlic Parmesan Wings, Honey Mustard Wings, Fries, Beer",2024-09-30 15:28
+901,721,"Honey Mustard Wings, Celery Sticks, Cheese Dip",2025-04-11 15:28
+902,247,"Garlic Parmesan Wings, Fries, Ranch Dip",2025-04-28 15:28
+903,868,"Spicy Wings, Honey Mustard Wings, Garlic Parmesan Wings, Cheese Dip, Beer",2025-01-22 15:28
+904,680,"Honey Mustard Wings, Classic Wings, Spicy Wings, Cola",2025-02-20 15:28
+905,917,"BBQ Wings, Fries",2024-09-03 15:28
+906,345,"BBQ Wings, Onion Rings",2025-06-01 15:28
+907,281,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Blue Cheese Dip, Lemonade",2024-10-29 15:28
+908,532,"Garlic Parmesan Wings, Classic Wings, Celery Sticks",2025-04-14 15:28
+909,316,"BBQ Wings, Classic Wings, Iced Tea",2024-08-18 15:28
+910,323,"Garlic Parmesan Wings, Honey Mustard Wings, BBQ Wings, Blue Cheese Dip, Celery Sticks",2025-06-24 15:28
+911,319,"Garlic Parmesan Wings, Honey Mustard Wings, Celery Sticks",2024-09-01 15:28
+912,327,"Garlic Parmesan Wings, Lemonade, Ranch Dip",2024-11-02 15:28
+913,583,"Garlic Parmesan Wings, Blue Cheese Dip",2025-06-05 15:28
+914,398,"Classic Wings, Fries, Cheese Dip",2024-11-28 15:28
+915,296,"Honey Mustard Wings, Celery Sticks",2025-03-05 15:28
+916,593,"Spicy Wings, Classic Wings, Iced Tea, Fries",2025-04-10 15:28
+917,870,"Honey Mustard Wings, Beer, Cola",2024-12-11 15:28
+918,705,"Spicy Wings, BBQ Wings, Classic Wings, Cola",2025-04-01 15:28
+919,474,"Classic Wings, Cola",2025-07-27 15:28
+920,346,"BBQ Wings, Celery Sticks",2025-03-03 15:28
+921,566,"Spicy Wings, Garlic Parmesan Wings, Ranch Dip",2024-08-11 15:28
+922,727,"Classic Wings, Spicy Wings, Honey Mustard Wings, Iced Tea, Garlic Bread",2025-07-17 15:28
+923,755,"Honey Mustard Wings, Spicy Wings, Cola",2025-02-21 15:28
+924,618,"Garlic Parmesan Wings, BBQ Wings, Garlic Bread",2024-11-06 15:28
+925,598,"Honey Mustard Wings, Garlic Parmesan Wings, Beer, Cheese Dip",2025-01-10 15:28
+926,397,"BBQ Wings, Garlic Parmesan Wings, Celery Sticks",2025-04-07 15:28
+927,620,"BBQ Wings, Classic Wings, Honey Mustard Wings, Garlic Bread",2025-04-17 15:28
+928,474,"Honey Mustard Wings, BBQ Wings, Cheese Dip",2024-11-18 15:28
+929,976,"Spicy Wings, Classic Wings, BBQ Wings, Garlic Bread, Fries",2025-07-25 15:28
+930,718,"BBQ Wings, Blue Cheese Dip, Cola",2024-09-12 15:28
+931,438,"Spicy Wings, Honey Mustard Wings, Garlic Bread, Fries",2025-03-24 15:28
+932,164,"Garlic Parmesan Wings, Spicy Wings, Honey Mustard Wings, Fries",2024-12-26 15:28
+933,678,"BBQ Wings, Honey Mustard Wings, Classic Wings, Beer, Lemonade",2025-04-22 15:28
+934,576,"Spicy Wings, Garlic Parmesan Wings, Celery Sticks, Fries",2024-11-04 15:28
+935,337,"Garlic Parmesan Wings, Spicy Wings, Onion Rings",2025-03-20 15:28
+936,790,"Spicy Wings, Fries, Lemonade",2025-06-24 15:28
+937,355,"Garlic Parmesan Wings, Spicy Wings, Blue Cheese Dip",2025-05-06 15:28
+938,306,"Classic Wings, Honey Mustard Wings, BBQ Wings, Onion Rings, Celery Sticks",2024-08-24 15:28
+939,626,"Spicy Wings, Honey Mustard Wings, Ranch Dip, Onion Rings",2025-01-22 15:28
+940,887,"Classic Wings, Spicy Wings, Honey Mustard Wings, Cheese Dip",2025-07-16 15:28
+941,133,"Honey Mustard Wings, Garlic Parmesan Wings, BBQ Wings, Garlic Bread",2025-07-22 15:28
+942,832,"Garlic Parmesan Wings, Blue Cheese Dip",2025-05-08 15:28
+943,832,"Spicy Wings, Celery Sticks",2025-04-19 15:28
+944,986,"Spicy Wings, Iced Tea, Fries",2024-11-13 15:28
+945,756,"Garlic Parmesan Wings, Iced Tea, Garlic Bread",2025-05-23 15:28
+946,407,"BBQ Wings, Honey Mustard Wings, Iced Tea",2025-07-25 15:28
+947,991,"BBQ Wings, Honey Mustard Wings, Garlic Parmesan Wings, Fries, Beer",2025-06-19 15:28
+948,785,"Honey Mustard Wings, Spicy Wings, Iced Tea",2025-07-02 15:28
+949,774,"Garlic Parmesan Wings, Spicy Wings, Fries",2025-05-01 15:28
+950,235,"Garlic Parmesan Wings, Onion Rings",2025-04-18 15:28
+951,700,"BBQ Wings, Spicy Wings, Fries, Iced Tea",2025-06-23 15:28
+952,418,"Garlic Parmesan Wings, BBQ Wings, Iced Tea",2024-11-20 15:28
+953,431,"BBQ Wings, Garlic Bread, Iced Tea",2025-06-01 15:28
+954,317,"Garlic Parmesan Wings, Spicy Wings, BBQ Wings, Blue Cheese Dip",2024-11-16 15:28
+955,428,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Ranch Dip, Lemonade",2025-05-08 15:28
+956,841,"Spicy Wings, BBQ Wings, Honey Mustard Wings, Celery Sticks, Blue Cheese Dip",2024-09-17 15:28
+957,138,"Garlic Parmesan Wings, Lemonade, Fries",2025-03-30 15:28
+958,426,"Honey Mustard Wings, Celery Sticks, Fries",2024-11-24 15:28
+959,200,"Garlic Parmesan Wings, Classic Wings, Ranch Dip, Cheese Dip",2025-02-04 15:28
+960,930,"Honey Mustard Wings, Spicy Wings, Classic Wings, Blue Cheese Dip, Garlic Bread",2024-09-11 15:28
+961,990,"Classic Wings, Garlic Parmesan Wings, Spicy Wings, Iced Tea",2024-09-02 15:28
+962,944,"Garlic Parmesan Wings, Classic Wings, Ranch Dip, Lemonade",2025-04-13 15:28
+963,463,"Classic Wings, Fries",2024-09-18 15:28
+964,729,"Garlic Parmesan Wings, BBQ Wings, Honey Mustard Wings, Ranch Dip",2025-01-30 15:28
+965,449,"Classic Wings, BBQ Wings, Garlic Parmesan Wings, Onion Rings",2024-09-28 15:28
+966,281,"BBQ Wings, Classic Wings, Cheese Dip, Cola",2025-01-08 15:28
+967,390,"Honey Mustard Wings, BBQ Wings, Cheese Dip",2025-03-13 15:28
+968,386,"Classic Wings, Iced Tea",2025-07-12 15:28
+969,177,"Garlic Parmesan Wings, Classic Wings, Honey Mustard Wings, Garlic Bread",2024-11-03 15:28
+970,228,"Spicy Wings, Iced Tea",2025-01-22 15:28
+971,225,"Classic Wings, Celery Sticks",2025-02-08 15:28
+972,926,"Garlic Parmesan Wings, Garlic Bread, Cola",2025-01-08 15:28
+973,703,"BBQ Wings, Honey Mustard Wings, Beer, Lemonade",2025-05-26 15:28
+974,824,"Garlic Parmesan Wings, Classic Wings, Lemonade",2024-11-12 15:28
+975,912,"Honey Mustard Wings, Garlic Parmesan Wings, Cheese Dip, Beer",2025-01-29 15:28
+976,921,"Spicy Wings, Beer, Fries",2024-09-16 15:28
+977,343,"Classic Wings, BBQ Wings, Garlic Parmesan Wings, Cola",2024-08-25 15:28
+978,992,"Honey Mustard Wings, Fries",2024-12-24 15:28
+979,303,"Honey Mustard Wings, Classic Wings, Garlic Bread",2024-11-06 15:28
+980,959,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Cheese Dip, Cola",2024-10-17 15:28
+981,605,"BBQ Wings, Spicy Wings, Honey Mustard Wings, Ranch Dip, Fries",2025-04-03 15:28
+982,451,"Garlic Parmesan Wings, Iced Tea",2024-10-26 15:28
+983,320,"Garlic Parmesan Wings, Iced Tea",2025-02-05 15:28
+984,235,"BBQ Wings, Spicy Wings, Lemonade, Fries",2025-04-15 15:28
+985,271,"Honey Mustard Wings, Cola",2024-08-11 15:28
+986,397,"Spicy Wings, Fries",2025-02-02 15:28
+987,572,"BBQ Wings, Beer",2025-06-03 15:28
+988,504,"Classic Wings, Iced Tea, Beer",2024-10-21 15:28
+989,419,"Honey Mustard Wings, Beer, Cola",2025-06-14 15:28
+990,875,"Spicy Wings, Classic Wings, Honey Mustard Wings, Onion Rings",2025-07-10 15:28
+991,402,"Honey Mustard Wings, Classic Wings, Cola",2025-04-06 15:28
+992,420,"Classic Wings, Honey Mustard Wings, BBQ Wings, Cola, Cheese Dip",2024-09-25 15:28
+993,796,"Honey Mustard Wings, Onion Rings, Celery Sticks",2025-06-17 15:28
+994,775,"Garlic Parmesan Wings, Lemonade, Onion Rings",2025-07-18 15:28
+995,560,"BBQ Wings, Garlic Parmesan Wings, Classic Wings, Beer, Fries",2025-01-27 15:28
+996,828,"Spicy Wings, Garlic Parmesan Wings, Honey Mustard Wings, Cheese Dip, Beer",2025-07-31 15:28
+997,685,"Garlic Parmesan Wings, Honey Mustard Wings, Classic Wings, Fries, Ranch Dip",2024-10-22 15:28
+998,653,"BBQ Wings, Spicy Wings, Classic Wings, Ranch Dip, Onion Rings",2024-11-22 15:28
+999,800,"Garlic Parmesan Wings, Spicy Wings, Lemonade",2025-03-29 15:28
+1000,417,"Honey Mustard Wings, Onion Rings, Iced Tea",2025-05-29 15:28
