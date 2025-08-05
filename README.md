@@ -1,6 +1,6 @@
-Here's the properly formatted version of your README.md file with correct Markdown syntax:
 
-```markdown
+
+
 # 🍗 Wings R Us - Smart Menu Recommendation System  
 *AI-powered complementary item suggestions for Quick Service Restaurants*  
 
@@ -125,3 +125,4 @@ Key improvements made:
 7. Fixed command formatting in installation steps
 
 This version will render perfectly on GitHub with all formatting preserved.
+
